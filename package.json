@@ -1,0 +1,29 @@
+{
+  "name": "reticketify-aoj95",
+  "version": "1.0.0",
+  "description": "Projeto da aula de front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esantana05/reticketify-aoj95.git"
+  },
+  "author": "Edgar Santana, Gustavo Velosa, Nivea Santos, Victor Miyazaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esantana05/reticketify-aoj95/issues"
+  },
+  "homepage": "https://github.com/esantana05/reticketify-aoj95#readme",
+  "dependencies": {
+    "@faker-js/faker": "^9.7.0",
+    "express": "^5.1.0",
+    "knex": "^3.1.0",
+    "socket.io": "^4.8.1",
+    "sqlite3": "^5.1.7",
+    "ulid": "^3.0.0",
+    "zod": "^3.24.2"
+  }
+}
