@@ -19,6 +19,7 @@
   "homepage": "https://github.com/esantana05/reticketify-aoj95#readme",
   "dependencies": {
     "@faker-js/faker": "^9.7.0",
+    "cron": "^4.3.0",
     "express": "^5.1.0",
     "knex": "^3.1.0",
     "socket.io": "^4.8.1",
